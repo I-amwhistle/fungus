@@ -1,2 +1,4 @@
 # fungus
-Acronym for Fuck Unity aNd Godot yoU guys Suck
+
+Guess what does this acronym stand for :)
+
