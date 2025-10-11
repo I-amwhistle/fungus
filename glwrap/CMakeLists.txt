@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(main)
+include_directories(/opt/homebrew/include)
+link_directories(/opt/homebrew/lib)
+add_executable(main src/main.cpp)
+target_link_libraries(main "-framework OpenGL" glfw GLEW glm)
