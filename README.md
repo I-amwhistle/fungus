@@ -2,6 +2,7 @@
 
 A personal project
 
-Currently is only an OpenGL wrapper
+for making games
 
+if you happen to like this feel free to work together
 
